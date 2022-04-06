@@ -1,0 +1,16 @@
+{
+  "name": "sockets_ps5",
+  "version": "1.0.0",
+  "description": "A website for shared drawing ",
+  "main": "sktech.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rahul Ramesh Mahant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
